@@ -1,2 +1,6 @@
 # Read-ASE
-read an ASE file and output a header file containg vertex information
+This file takes an ASE file of a model and creates a corresponding header file.
+
+Vertices[] contains the vertex coordination.
+Normals[] contains the vertex normal vector.
+Elements[] contains the three vertex index that forms a triangle.
